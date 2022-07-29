@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielCGomes
-- 👀 I’m interested in Python 
+- 👀 I’m interested in Python, web and automation
 - 🌱 I’m currently learning Python+Kivy, Kotlin
 - 💞️ I'm looking for job opportunities as a programmer
 - 📫 How to reach me: campelojon@gmail.com
